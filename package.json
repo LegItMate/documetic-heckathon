@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "moment": "^2.29.4"
+  },
+  "scripts": {
+    "start": "node .",
+    "test": "node ./tests/index.test.js"
+  },
+  "name": "moment-extras",
+  "description": "A simple that adds a bit of utility to moment package",
+  "version": "0.0.0",
+  "main": "./src/index.js",
+  "repository": "https://github.com/LegItMate/documetic-heckathon.git",
+  "author": "LegItMate <77503777+LegItMate@users.noreply.github.com>",
+  "license": "MIT"
+}
